@@ -59,6 +59,7 @@ export const Stack = styled.div`
   display: flex;
   align-items: center;
   margin-bottom: 5px;
+  
 
   .stackTitle {
     font-weight: 500;
@@ -76,4 +77,5 @@ export const BtnGroup = styled.div`
   height: 70px;
   display: flex;
   align-items: center;
+ 
 `;
