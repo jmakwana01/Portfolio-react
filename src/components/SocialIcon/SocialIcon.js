@@ -41,9 +41,10 @@ function SocialIcon() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaLinkedin />
+            <FaTwitter/>
           </a>
         </li>
+
         <li className="item">
           <a
             href="https://github.com/jmakwana01/"
