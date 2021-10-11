@@ -10,7 +10,7 @@ export const ProjectList = [
   },
   {
     img: "https://user-images.githubusercontent.com/87368354/136759360-47c506ed-3804-4c24-9fc1-ac0d8148648b.png",
-    title: "EthSwap",
+    title: "Election Rethinked",
     description: "Decentralized app for election",
     tech_stack: "Blockchain,Solidity,Angularjs,Javascript",
     github_url: "https://github.com/jmakwana01/Decentralized-app-for-Election",
