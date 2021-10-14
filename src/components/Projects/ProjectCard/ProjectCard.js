@@ -33,7 +33,7 @@ function ProjectCard() {
               </a>
               <a
                 className="btn btn2 SecondarBtn"
-                href={list.github_url}
+                href={list.blog_url}
                 target="_blank"
                 rel="noopener noreferrer"
               >
