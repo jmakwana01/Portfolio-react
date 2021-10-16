@@ -19,9 +19,9 @@ export const ProjectList = [
     demo_url: "https://sad-meninsky-ce295f.netlify.app",
   },
   {
-    img: "https://user-images.githubusercontent.com/87368354/134036718-cca0ec3a-8694-4275-8a09-ba0821faa4d7.jpeg",
-    title: "EthSwap",
-    description: "Ether-to-Erc20-token-Exchange",
+    img: "https://pbs.twimg.com/media/FBzkqEgVgAgf5VA?format=png&name=small",
+    title: "Token+",
+    description: "In Progress",
     tech_stack: "Solidity,React,Javascript",
     github_url: "https://github.com/jmakwana01/Ether-to-Erc20-token-Exchange/",
     demo_url: "https://sad-meninsky-ce295f.netlify.app",
